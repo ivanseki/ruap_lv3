@@ -63,4 +63,4 @@ jobs:
           app-name: 'davidVodicka'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1EB563D5E0344A0D8E3F92EDA95A31A7 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D381CB09250D43A9BD7591C236206CF9 }}
